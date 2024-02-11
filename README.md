@@ -16,7 +16,7 @@ This project is a Bot Management System web application that allows users to vie
 
 1. Clone the repository:" 
 
-   \`git clone <https://github.com/Victor5771/my-bot-army-app-2>\`" 
+   \`git clone <git@github.com:Victor5771/my-bot-army-app-2.git>\`" 
 
 2. Navigate into the project directory:" 
 
