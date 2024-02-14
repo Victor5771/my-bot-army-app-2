@@ -31,6 +31,6 @@ BotCard.propTypes = {
     avatar_url: PropTypes.string.isRequired,
   }).isRequired,
   addToArmy: PropTypes.func.isRequired,
-};
+}; 
 
 export default BotCard;
